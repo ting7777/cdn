@@ -44,7 +44,7 @@ h6 {
     height: 100%;
     text-align: center;
     color: #f8f8f8;
-    background: url(../Images/background.jpg) no-repeat center center;
+    background: url('https://cdn.jsdelivr.net/gh/ting7777/cdn@main/background.jpg') no-repeat center center;
     background-size: cover;
 }
 
